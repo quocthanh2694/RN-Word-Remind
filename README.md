@@ -1,1 +1,1 @@
-# RN-Word-Remind
+adb logcat *:S ReactNative:V ReactNativeJS:V BackgroundTask:V
