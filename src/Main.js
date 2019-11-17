@@ -120,13 +120,13 @@ PushNotification.configure({
 // });
 
 const AppNavigator = createStackNavigator({
-    [ROUTE_NAME.HOME]: {
+    Home: {
         navigationOptions: {
             title: 'Home',
         },
         screen: HomeScreen,
     },
-    [ROUTE_NAME.ADD_WORD]: {
+    AddWord: {
         navigationOptions: {
             title: 'Add Word',
         },
